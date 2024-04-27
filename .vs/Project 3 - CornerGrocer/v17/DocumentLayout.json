@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\GroceryItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|solutionrelative:Project 3 - CornerGrocer\\GroceryItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\frequency.dat||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|solutionrelative:Project 3 - CornerGrocer\\frequency.dat||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\Inventory.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|solutionrelative:Project 3 - CornerGrocer\\Inventory.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|solutionrelative:Project 3 - CornerGrocer\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\GroceryItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F87DAE90-69BF-4FFC-B243-8105C861DCCA}|Project 3 - CornerGrocer\\Project 3 - CornerGrocer.vcxproj|solutionrelative:Project 3 - CornerGrocer\\GroceryItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroceryItem.h",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\GroceryItem.h",
+              "RelativeDocumentMoniker": "Project 3 - CornerGrocer\\GroceryItem.h",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\GroceryItem.h",
+              "RelativeToolTip": "Project 3 - CornerGrocer\\GroceryItem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-21T02:20:13.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroceryItem.cpp",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\GroceryItem.cpp",
+              "RelativeDocumentMoniker": "Project 3 - CornerGrocer\\GroceryItem.cpp",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\GroceryItem.cpp",
+              "RelativeToolTip": "Project 3 - CornerGrocer\\GroceryItem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T02:20:40.009Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\Source.cpp",
+              "RelativeDocumentMoniker": "Project 3 - CornerGrocer\\Source.cpp",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\Source.cpp",
+              "RelativeToolTip": "Project 3 - CornerGrocer\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T02:19:10.06Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frequency.dat",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\frequency.dat",
+              "RelativeDocumentMoniker": "Project 3 - CornerGrocer\\frequency.dat",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\frequency.dat",
+              "RelativeToolTip": "Project 3 - CornerGrocer\\frequency.dat",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-21T19:34:30.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Inventory.txt",
+              "DocumentMoniker": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\Inventory.txt",
+              "RelativeDocumentMoniker": "Project 3 - CornerGrocer\\Inventory.txt",
+              "ToolTip": "C:\\Users\\tyler\\source\\repos\\Project 3 - CornerGrocer\\Project 3 - CornerGrocer\\Inventory.txt",
+              "RelativeToolTip": "Project 3 - CornerGrocer\\Inventory.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-04-21T19:34:28.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
