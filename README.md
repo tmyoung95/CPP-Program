@@ -1,4 +1,4 @@
-"# Project-3---CornerGrocer" 
+"# Project-3-CornerGrocer" 
 
 This CPP project reads the contents of a separate .txt file with grocery data and saves the name of the item (i.e. spinach, radishes, etc.) and their frequency within the file to a set. The user then has various options to select from a main menu. Option 1 allows the user to search for an item by name, with the program displaying the name of the item (if found) as well as the frequency of that item within the set. By selecting Option 2, the user can display all items and frequencies. Option 3 performs the same function of option 2, but visually represents the frequencies via a histogram. Finally, Option 4 serves as the command to exit the program. Upon successfully opening the .txt file, the program creates a backdup .dat file of all item names and frequencies.
 
